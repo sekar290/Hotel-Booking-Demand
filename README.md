@@ -1,4 +1,4 @@
-# Hotel-Demand-Data
+# Hotel-Booking-Demand
 Exploratory Data Analyst
 This data set contains booking information for a city hotel, a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
